@@ -1,5 +1,5 @@
 # AI-Assignments
-__assignent 1__
+__assigment 1__
 * 8 queen problem using ucs 
 
 __assignment 2__
