@@ -6,8 +6,12 @@ __assigment 1__
 __assignment 2__
 * 8 queen problem using A* 
 * 8 queen A* result txt file
+
+
 __assignment 3__
 * genetic_n_student 
+
+
 __assignment 4__
 
 * sticks game using AI including functions-
