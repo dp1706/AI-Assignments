@@ -1,1 +1,110 @@
-//
+####################AI GAME #########################
+1.Random player
+2.AI vs player
+3.AI vs AI
+
+
+##############################################################
+---------------------RESULT OF GAME----------------------------
+
+####################################
+-----------STICK GAME-------------
+----------------------------------
+ HOW MUCH STICK WITH YOU WANT TO PLAY:
+14
+
+1. PLAY WITH FRIEND
+2. PLAY WITH COMPUTER
+3. PLAY COMPUTER VS COMPUTER
+4. EXIT
+5. ENTER YOUR CHOICE:
+1
+
+---------------GAME RULE--------------
+A PLAYER CAN CHOOSE ATLEAST 1 STICK OR CAN CHOOSE ATMOST 3 STICKS
+LETS BEGIN THE GAME.WE ARE DOING THE TOSS
+ PLAYER_2 WON THE TOSS
+
+ PLAYER_2:1
+
+ PLAYER_1:2
+
+ PLAYER_2:3
+
+ PLAYER_1:1
+
+ PLAYER_2:3
+
+ PLAYER_1:2
+
+ PLAYER_2:1
+
+ PLAYER_2 HAS WON THE GAME
+
+####################################
+-----------STICK GAME-------------
+----------------------------------
+ HOW MUCH STICK WITH YOU WANT TO PLAY:
+14
+
+1. PLAY WITH FRIEND
+2. PLAY WITH COMPUTER
+3. PLAY COMPUTER VS COMPUTER
+4. EXIT
+5. ENTER YOUR CHOICE:
+2
+
+-------------------------GAME RULE-------------------------------
+A PLAYER CAN CHOOSE ATLEAST 1 STICK OR CAN CHOOSE AT MOST 3 STICKS
+LETS BEGIN THE GAME.WE ARE DOING THE TOSS
+Player_1 HAS WON THE TOSS:
+Player_1:1
+computer_1:2
+Player_1:4
+
+ NOT PERMITED.TRY AGAIN
+Player_1:3
+computer_1:3
+Player_1:2
+computer_1:2
+Computer_1 won the game
+
+####################################
+-----------STICK GAME-------------
+----------------------------------
+ HOW MUCH STICK WITH YOU WANT TO PLAY:
+14
+
+1. PLAY WITH FRIEND
+2. PLAY WITH COMPUTER
+3. PLAY COMPUTER VS COMPUTER
+4. EXIT
+5. ENTER YOUR CHOICE:
+3
+
+-------------------------GAME RULE-------------------------------
+A PLAYER CAN CHOOSE ATLEAST 1 STICK OR CAN CHOOSE AT MOST 3 STICKS
+LETS BEGIN THE GAME.WE ARE DOING THE TOSS
+Computer_1 HAS WON THE TOSS:
+computer_1:1
+COMPUTER_2:2
+computer_1:2
+COMPUTER_2:2
+computer_1:2
+COMPUTER_2:2
+computer_1:2
+Computer_1 won the game
+
+####################################
+-----------STICK GAME-------------
+----------------------------------
+ HOW MUCH STICK WITH YOU WANT TO PLAY:
+14
+
+1. PLAY WITH FRIEND
+2. PLAY WITH COMPUTER
+3. PLAY COMPUTER VS COMPUTER
+4. EXIT
+5. ENTER YOUR CHOICE:
+4
+
