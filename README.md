@@ -19,3 +19,4 @@ __assignment 4__
   2. computer vs player_1
   3. computer_1 vs computer_2
   
+  * result.txt
